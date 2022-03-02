@@ -117,6 +117,13 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "yoinky",
+      "species": "sploinky",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "12"
     }
   ]
 }
